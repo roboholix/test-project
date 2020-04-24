@@ -1,0 +1,22 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "Test Project",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.13.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roboholix/test-project.git"
+  },
+  "author": "Luke Blechl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roboholix/test-project/issues"
+  },
+  "homepage": "https://github.com/roboholix/test-project#readme"
+}
